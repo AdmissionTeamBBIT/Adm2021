@@ -746,10 +746,12 @@ section.lazy-placeholder:after {
 .cid-rXFO3G3sNx .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rXFNUDuL13 {
+.cid-rXINZAIjgp {
+  padding-top: 135px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/dsc-140-2000x1333.jpg");
 }
-.cid-rXFNUDuL13 H1 {
+.cid-rXINZAIjgp H1 {
   color: #149dcc;
 }
 .cid-rXFOhYftyy .navbar {
